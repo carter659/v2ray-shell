@@ -1,8 +1,6 @@
-��װ
+安装方法
 
-ϵͳ֧�֣�Ubuntu��Debian��CentOS���Ƽ�ʹ�� Ubuntu 22������ʹ�� CentOS���ű������޷��������У�
-
-ִ���������
+支持: Ubuntu,Debian,CentOS 7,Ubuntu 22 CentOS
 
 git clone https://github.com/carter659/v2ray-shell.git
 
